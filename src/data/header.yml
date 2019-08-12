@@ -8,4 +8,4 @@ actions:
     url: '#one'
 img:
   path: /images/sai_new_2.jpg
-  phone_border: false
+  phone_border: true

@@ -1,17 +1,10 @@
 title_url: '#'
-subtitle: |-
-  Nibh sed aliquam, cursus arcu aliquet  
-  natoque rhoncus ut non in Aliquet
+subtitle: 'Product Leader, Speaker, Mentor and Advisor'
 actions:
-  - icon: fa-download
-    is_primary: true
-    is_scrolly: false
-    label: Download
-    url: /elements
   - icon: fa-chevron-down
     is_primary: false
     is_scrolly: true
-    label: Learn More
+    label: About Me
     url: '#one'
 img:
   path: /images/sai_new_2.jpg
